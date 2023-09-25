@@ -1,0 +1,9 @@
+Include
+Lib
+Scripts
+.tox
+.vscode
+docs
+activate.bat
+pyvenv.cfg
+img

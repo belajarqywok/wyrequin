@@ -1,0 +1,1153 @@
+"No.","Time","Source","Destination","Protocol","Length","Info"
+"1","1677862077.934251000","20.198.119.84:443","192.168.100.23:11895","TCP","66","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:47:57.934251000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862077.934251000 seconds
+	Time delta from previous captured frame: 0.000000000 seconds
+	Time delta from previous displayed frame: 0.000000000 seconds
+	Time since reference or first frame: 0.000000000 seconds
+	Frame Number: 1
+	Frame Length: 66 bytes (528 bits)
+	Capture Length: 66 bytes (528 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"2","1677862077.934294000","192.168.100.23:11895","20.198.119.84:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:47:57.934294000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862077.934294000 seconds
+	Time delta from previous captured frame: 0.000043000 seconds
+	Time delta from previous displayed frame: 0.000043000 seconds
+	Time since reference or first frame: 0.000043000 seconds
+	Frame Number: 2
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"3","1677862082.217647000","192.168.100.23:62518","118.98.44.100:53","UDP","80","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:02.217647000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862082.217647000 seconds
+	Time delta from previous captured frame: 0.637587000 seconds
+	Time delta from previous displayed frame: 0.637587000 seconds
+	Time since reference or first frame: 4.283396000 seconds
+	Frame Number: 5
+	Frame Length: 80 bytes (640 bits)
+	Capture Length: 80 bytes (640 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:udp:dns
+"
+"4","1677862082.217647000","192.168.100.23:62305","118.98.44.100:53","UDP","80","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:02.217647000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862082.217647000 seconds
+	Time delta from previous captured frame: 0.000000000 seconds
+	Time delta from previous displayed frame: 0.000000000 seconds
+	Time since reference or first frame: 4.283396000 seconds
+	Frame Number: 6
+	Frame Length: 80 bytes (640 bits)
+	Capture Length: 80 bytes (640 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:udp:dns
+"
+"5","1677862082.858902000","118.98.44.100:53","192.168.100.23:62305","UDP","328","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:02.858902000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862082.858902000 seconds
+	Time delta from previous captured frame: 0.196726000 seconds
+	Time delta from previous displayed frame: 0.196726000 seconds
+	Time since reference or first frame: 4.924651000 seconds
+	Frame Number: 9
+	Frame Length: 328 bytes (2624 bits)
+	Capture Length: 328 bytes (2624 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:udp:dns
+"
+"6","1677862082.863700000","118.98.44.100:53","192.168.100.23:62518","UDP","225","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:02.863700000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862082.863700000 seconds
+	Time delta from previous captured frame: 0.004798000 seconds
+	Time delta from previous displayed frame: 0.004798000 seconds
+	Time since reference or first frame: 4.929449000 seconds
+	Frame Number: 10
+	Frame Length: 225 bytes (1800 bits)
+	Capture Length: 225 bytes (1800 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:udp:dns
+"
+"7","1677862082.871162000","192.168.100.23:12070","52.21.119.163:443","TCP","66","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:02.871162000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862082.871162000 seconds
+	Time delta from previous captured frame: 0.007462000 seconds
+	Time delta from previous displayed frame: 0.007462000 seconds
+	Time since reference or first frame: 4.936911000 seconds
+	Frame Number: 11
+	Frame Length: 66 bytes (528 bits)
+	Capture Length: 66 bytes (528 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"8","1677862083.111003000","52.21.119.163:443","192.168.100.23:12070","TCP","66","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.111003000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.111003000 seconds
+	Time delta from previous captured frame: 0.239841000 seconds
+	Time delta from previous displayed frame: 0.239841000 seconds
+	Time since reference or first frame: 5.176752000 seconds
+	Frame Number: 12
+	Frame Length: 66 bytes (528 bits)
+	Capture Length: 66 bytes (528 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"9","1677862083.111213000","192.168.100.23:12070","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.111213000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.111213000 seconds
+	Time delta from previous captured frame: 0.000210000 seconds
+	Time delta from previous displayed frame: 0.000210000 seconds
+	Time since reference or first frame: 5.176962000 seconds
+	Frame Number: 13
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"10","1677862083.113454000","192.168.100.23:12070","52.21.119.163:443","TCP","428","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.113454000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.113454000 seconds
+	Time delta from previous captured frame: 0.002241000 seconds
+	Time delta from previous displayed frame: 0.002241000 seconds
+	Time since reference or first frame: 5.179203000 seconds
+	Frame Number: 14
+	Frame Length: 428 bytes (3424 bits)
+	Capture Length: 428 bytes (3424 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"11","1677862083.360132000","52.21.119.163:443","192.168.100.23:12070","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.360132000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.360132000 seconds
+	Time delta from previous captured frame: 0.246678000 seconds
+	Time delta from previous displayed frame: 0.246678000 seconds
+	Time since reference or first frame: 5.425881000 seconds
+	Frame Number: 15
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"12","1677862083.363917000","52.21.119.163:443","192.168.100.23:12070","TCP","1466","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.363917000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.363917000 seconds
+	Time delta from previous captured frame: 0.003785000 seconds
+	Time delta from previous displayed frame: 0.003785000 seconds
+	Time since reference or first frame: 5.429666000 seconds
+	Frame Number: 16
+	Frame Length: 1466 bytes (11728 bits)
+	Capture Length: 1466 bytes (11728 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"13","1677862083.366452000","52.21.119.163:443","192.168.100.23:12070","TCP","1466","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.366452000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.366452000 seconds
+	Time delta from previous captured frame: 0.002535000 seconds
+	Time delta from previous displayed frame: 0.002535000 seconds
+	Time since reference or first frame: 5.432201000 seconds
+	Frame Number: 17
+	Frame Length: 1466 bytes (11728 bits)
+	Capture Length: 1466 bytes (11728 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"14","1677862083.366583000","192.168.100.23:12070","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.366583000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.366583000 seconds
+	Time delta from previous captured frame: 0.000131000 seconds
+	Time delta from previous displayed frame: 0.000131000 seconds
+	Time since reference or first frame: 5.432332000 seconds
+	Frame Number: 18
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"15","1677862083.367143000","52.21.119.163:443","192.168.100.23:12070","TCP","1466","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.367143000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.367143000 seconds
+	Time delta from previous captured frame: 0.000560000 seconds
+	Time delta from previous displayed frame: 0.000560000 seconds
+	Time since reference or first frame: 5.432892000 seconds
+	Frame Number: 19
+	Frame Length: 1466 bytes (11728 bits)
+	Capture Length: 1466 bytes (11728 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls:tls
+"
+"16","1677862083.367143000","52.21.119.163:443","192.168.100.23:12070","TCP","535","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.367143000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.367143000 seconds
+	Time delta from previous captured frame: 0.000000000 seconds
+	Time delta from previous displayed frame: 0.000000000 seconds
+	Time since reference or first frame: 5.432892000 seconds
+	Frame Number: 20
+	Frame Length: 535 bytes (4280 bits)
+	Capture Length: 535 bytes (4280 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls:tls
+"
+"17","1677862083.367269000","192.168.100.23:12070","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.367269000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.367269000 seconds
+	Time delta from previous captured frame: 0.000126000 seconds
+	Time delta from previous displayed frame: 0.000126000 seconds
+	Time since reference or first frame: 5.433018000 seconds
+	Frame Number: 21
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"18","1677862083.378232000","192.168.100.23:12070","52.21.119.163:443","TCP","717","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.378232000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.378232000 seconds
+	Time delta from previous captured frame: 0.010963000 seconds
+	Time delta from previous displayed frame: 0.010963000 seconds
+	Time since reference or first frame: 5.443981000 seconds
+	Frame Number: 22
+	Frame Length: 717 bytes (5736 bits)
+	Capture Length: 717 bytes (5736 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"19","1677862083.617304000","52.21.119.163:443","192.168.100.23:12070","TCP","335","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.617304000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.617304000 seconds
+	Time delta from previous captured frame: 0.239072000 seconds
+	Time delta from previous displayed frame: 0.239072000 seconds
+	Time since reference or first frame: 5.683053000 seconds
+	Frame Number: 23
+	Frame Length: 335 bytes (2680 bits)
+	Capture Length: 335 bytes (2680 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"20","1677862083.617818000","52.21.119.163:443","192.168.100.23:12070","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.617818000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.617818000 seconds
+	Time delta from previous captured frame: 0.000514000 seconds
+	Time delta from previous displayed frame: 0.000514000 seconds
+	Time since reference or first frame: 5.683567000 seconds
+	Frame Number: 24
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"21","1677862083.617869000","192.168.100.23:12070","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.617869000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.617869000 seconds
+	Time delta from previous captured frame: 0.000051000 seconds
+	Time delta from previous displayed frame: 0.000051000 seconds
+	Time since reference or first frame: 5.683618000 seconds
+	Frame Number: 25
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"22","1677862083.622330000","192.168.100.23:12070","52.21.119.163:443","TCP","78","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.622330000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.622330000 seconds
+	Time delta from previous captured frame: 0.004461000 seconds
+	Time delta from previous displayed frame: 0.004461000 seconds
+	Time since reference or first frame: 5.688079000 seconds
+	Frame Number: 26
+	Frame Length: 78 bytes (624 bits)
+	Capture Length: 78 bytes (624 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"23","1677862083.804758000","192.168.100.23:12070","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.804758000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.804758000 seconds
+	Time delta from previous captured frame: 0.182428000 seconds
+	Time delta from previous displayed frame: 0.182428000 seconds
+	Time since reference or first frame: 5.870507000 seconds
+	Frame Number: 27
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"24","1677862083.900857000","52.21.119.163:443","192.168.100.23:12070","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:03.900857000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862083.900857000 seconds
+	Time delta from previous captured frame: 0.096099000 seconds
+	Time delta from previous displayed frame: 0.096099000 seconds
+	Time since reference or first frame: 5.966606000 seconds
+	Frame Number: 28
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"25","1677862088.933043000","192.168.100.23:58178","118.98.44.100:53","UDP","80","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:08.933043000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862088.933043000 seconds
+	Time delta from previous captured frame: 0.618062000 seconds
+	Time delta from previous displayed frame: 0.618062000 seconds
+	Time since reference or first frame: 10.998792000 seconds
+	Frame Number: 30
+	Frame Length: 80 bytes (640 bits)
+	Capture Length: 80 bytes (640 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:udp:dns
+"
+"26","1677862089.295763000","118.98.44.100:53","192.168.100.23:58178","UDP","225","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.295763000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.295763000 seconds
+	Time delta from previous captured frame: 0.362720000 seconds
+	Time delta from previous displayed frame: 0.362720000 seconds
+	Time since reference or first frame: 11.361512000 seconds
+	Frame Number: 31
+	Frame Length: 225 bytes (1800 bits)
+	Capture Length: 225 bytes (1800 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:udp:dns
+"
+"27","1677862089.303695000","192.168.100.23:12071","52.21.119.163:443","TCP","66","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.303695000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.303695000 seconds
+	Time delta from previous captured frame: 0.007932000 seconds
+	Time delta from previous displayed frame: 0.007932000 seconds
+	Time since reference or first frame: 11.369444000 seconds
+	Frame Number: 32
+	Frame Length: 66 bytes (528 bits)
+	Capture Length: 66 bytes (528 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"28","1677862089.555113000","52.21.119.163:443","192.168.100.23:12071","TCP","66","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.555113000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.555113000 seconds
+	Time delta from previous captured frame: 0.251418000 seconds
+	Time delta from previous displayed frame: 0.251418000 seconds
+	Time since reference or first frame: 11.620862000 seconds
+	Frame Number: 33
+	Frame Length: 66 bytes (528 bits)
+	Capture Length: 66 bytes (528 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"29","1677862089.555427000","192.168.100.23:12071","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.555427000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.555427000 seconds
+	Time delta from previous captured frame: 0.000314000 seconds
+	Time delta from previous displayed frame: 0.000314000 seconds
+	Time since reference or first frame: 11.621176000 seconds
+	Frame Number: 34
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"30","1677862089.557731000","192.168.100.23:12071","52.21.119.163:443","TCP","428","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.557731000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.557731000 seconds
+	Time delta from previous captured frame: 0.002304000 seconds
+	Time delta from previous displayed frame: 0.002304000 seconds
+	Time since reference or first frame: 11.623480000 seconds
+	Frame Number: 35
+	Frame Length: 428 bytes (3424 bits)
+	Capture Length: 428 bytes (3424 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"31","1677862089.842267000","52.21.119.163:443","192.168.100.23:12071","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.842267000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.842267000 seconds
+	Time delta from previous captured frame: 0.284536000 seconds
+	Time delta from previous displayed frame: 0.284536000 seconds
+	Time since reference or first frame: 11.908016000 seconds
+	Frame Number: 36
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"32","1677862089.843391000","52.21.119.163:443","192.168.100.23:12071","TCP","1466","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.843391000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.843391000 seconds
+	Time delta from previous captured frame: 0.001124000 seconds
+	Time delta from previous displayed frame: 0.001124000 seconds
+	Time since reference or first frame: 11.909140000 seconds
+	Frame Number: 37
+	Frame Length: 1466 bytes (11728 bits)
+	Capture Length: 1466 bytes (11728 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"33","1677862089.844985000","52.21.119.163:443","192.168.100.23:12071","TCP","1466","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.844985000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.844985000 seconds
+	Time delta from previous captured frame: 0.001594000 seconds
+	Time delta from previous displayed frame: 0.001594000 seconds
+	Time since reference or first frame: 11.910734000 seconds
+	Frame Number: 38
+	Frame Length: 1466 bytes (11728 bits)
+	Capture Length: 1466 bytes (11728 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"34","1677862089.845132000","192.168.100.23:12071","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.845132000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.845132000 seconds
+	Time delta from previous captured frame: 0.000147000 seconds
+	Time delta from previous displayed frame: 0.000147000 seconds
+	Time since reference or first frame: 11.910881000 seconds
+	Frame Number: 39
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"35","1677862089.846462000","52.21.119.163:443","192.168.100.23:12071","TCP","1466","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.846462000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.846462000 seconds
+	Time delta from previous captured frame: 0.001330000 seconds
+	Time delta from previous displayed frame: 0.001330000 seconds
+	Time since reference or first frame: 11.912211000 seconds
+	Frame Number: 40
+	Frame Length: 1466 bytes (11728 bits)
+	Capture Length: 1466 bytes (11728 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls:tls
+"
+"36","1677862089.869578000","52.21.119.163:443","192.168.100.23:12071","TCP","535","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.869578000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.869578000 seconds
+	Time delta from previous captured frame: 0.023116000 seconds
+	Time delta from previous displayed frame: 0.023116000 seconds
+	Time since reference or first frame: 11.935327000 seconds
+	Frame Number: 41
+	Frame Length: 535 bytes (4280 bits)
+	Capture Length: 535 bytes (4280 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls:tls
+"
+"37","1677862089.869714000","192.168.100.23:12071","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.869714000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.869714000 seconds
+	Time delta from previous captured frame: 0.000136000 seconds
+	Time delta from previous displayed frame: 0.000136000 seconds
+	Time since reference or first frame: 11.935463000 seconds
+	Frame Number: 42
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"38","1677862089.880277000","192.168.100.23:12071","52.21.119.163:443","TCP","717","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:09.880277000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862089.880277000 seconds
+	Time delta from previous captured frame: 0.010563000 seconds
+	Time delta from previous displayed frame: 0.010563000 seconds
+	Time since reference or first frame: 11.946026000 seconds
+	Frame Number: 43
+	Frame Length: 717 bytes (5736 bits)
+	Capture Length: 717 bytes (5736 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"39","1677862090.135564000","52.21.119.163:443","192.168.100.23:12071","TCP","335","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:10.135564000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862090.135564000 seconds
+	Time delta from previous captured frame: 0.255287000 seconds
+	Time delta from previous displayed frame: 0.255287000 seconds
+	Time since reference or first frame: 12.201313000 seconds
+	Frame Number: 44
+	Frame Length: 335 bytes (2680 bits)
+	Capture Length: 335 bytes (2680 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"40","1677862090.136357000","52.21.119.163:443","192.168.100.23:12071","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:10.136357000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862090.136357000 seconds
+	Time delta from previous captured frame: 0.000793000 seconds
+	Time delta from previous displayed frame: 0.000793000 seconds
+	Time since reference or first frame: 12.202106000 seconds
+	Frame Number: 45
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"41","1677862090.136658000","192.168.100.23:12071","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:10.136658000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862090.136658000 seconds
+	Time delta from previous captured frame: 0.000301000 seconds
+	Time delta from previous displayed frame: 0.000301000 seconds
+	Time since reference or first frame: 12.202407000 seconds
+	Frame Number: 46
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"42","1677862090.145502000","192.168.100.23:12071","52.21.119.163:443","TCP","78","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:10.145502000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862090.145502000 seconds
+	Time delta from previous captured frame: 0.008844000 seconds
+	Time delta from previous displayed frame: 0.008844000 seconds
+	Time since reference or first frame: 12.211251000 seconds
+	Frame Number: 47
+	Frame Length: 78 bytes (624 bits)
+	Capture Length: 78 bytes (624 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"43","1677862090.405462000","192.168.100.23:12071","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:10.405462000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862090.405462000 seconds
+	Time delta from previous captured frame: 0.259960000 seconds
+	Time delta from previous displayed frame: 0.259960000 seconds
+	Time since reference or first frame: 12.471211000 seconds
+	Frame Number: 48
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"44","1677862090.436431000","52.21.119.163:443","192.168.100.23:12071","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:10.436431000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862090.436431000 seconds
+	Time delta from previous captured frame: 0.030969000 seconds
+	Time delta from previous displayed frame: 0.030969000 seconds
+	Time since reference or first frame: 12.502180000 seconds
+	Frame Number: 49
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"45","1677862095.469338000","192.168.100.23:50408","118.98.44.100:53","UDP","80","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:15.469338000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862095.469338000 seconds
+	Time delta from previous captured frame: 0.630965000 seconds
+	Time delta from previous displayed frame: 0.630965000 seconds
+	Time since reference or first frame: 17.535087000 seconds
+	Frame Number: 51
+	Frame Length: 80 bytes (640 bits)
+	Capture Length: 80 bytes (640 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:udp:dns
+"
+"46","1677862095.474728000","118.98.44.100:53","192.168.100.23:50408","UDP","225","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:15.474728000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862095.474728000 seconds
+	Time delta from previous captured frame: 0.005390000 seconds
+	Time delta from previous displayed frame: 0.005390000 seconds
+	Time since reference or first frame: 17.540477000 seconds
+	Frame Number: 52
+	Frame Length: 225 bytes (1800 bits)
+	Capture Length: 225 bytes (1800 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:udp:dns
+"
+"47","1677862095.481282000","192.168.100.23:12072","52.21.119.163:443","TCP","66","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:15.481282000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862095.481282000 seconds
+	Time delta from previous captured frame: 0.006554000 seconds
+	Time delta from previous displayed frame: 0.006554000 seconds
+	Time since reference or first frame: 17.547031000 seconds
+	Frame Number: 53
+	Frame Length: 66 bytes (528 bits)
+	Capture Length: 66 bytes (528 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"48","1677862095.733993000","52.21.119.163:443","192.168.100.23:12072","TCP","66","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:15.733993000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862095.733993000 seconds
+	Time delta from previous captured frame: 0.252711000 seconds
+	Time delta from previous displayed frame: 0.252711000 seconds
+	Time since reference or first frame: 17.799742000 seconds
+	Frame Number: 54
+	Frame Length: 66 bytes (528 bits)
+	Capture Length: 66 bytes (528 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"49","1677862095.734320000","192.168.100.23:12072","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:15.734320000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862095.734320000 seconds
+	Time delta from previous captured frame: 0.000327000 seconds
+	Time delta from previous displayed frame: 0.000327000 seconds
+	Time since reference or first frame: 17.800069000 seconds
+	Frame Number: 55
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"50","1677862095.736555000","192.168.100.23:12072","52.21.119.163:443","TCP","428","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:15.736555000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862095.736555000 seconds
+	Time delta from previous captured frame: 0.002235000 seconds
+	Time delta from previous displayed frame: 0.002235000 seconds
+	Time since reference or first frame: 17.802304000 seconds
+	Frame Number: 56
+	Frame Length: 428 bytes (3424 bits)
+	Capture Length: 428 bytes (3424 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"51","1677862095.989457000","52.21.119.163:443","192.168.100.23:12072","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:15.989457000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862095.989457000 seconds
+	Time delta from previous captured frame: 0.252902000 seconds
+	Time delta from previous displayed frame: 0.252902000 seconds
+	Time since reference or first frame: 18.055206000 seconds
+	Frame Number: 57
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"52","1677862095.993910000","52.21.119.163:443","192.168.100.23:12072","TCP","1466","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:15.993910000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862095.993910000 seconds
+	Time delta from previous captured frame: 0.004453000 seconds
+	Time delta from previous displayed frame: 0.004453000 seconds
+	Time since reference or first frame: 18.059659000 seconds
+	Frame Number: 58
+	Frame Length: 1466 bytes (11728 bits)
+	Capture Length: 1466 bytes (11728 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"53","1677862095.997978000","52.21.119.163:443","192.168.100.23:12072","TCP","1466","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:15.997978000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862095.997978000 seconds
+	Time delta from previous captured frame: 0.004068000 seconds
+	Time delta from previous displayed frame: 0.004068000 seconds
+	Time since reference or first frame: 18.063727000 seconds
+	Frame Number: 59
+	Frame Length: 1466 bytes (11728 bits)
+	Capture Length: 1466 bytes (11728 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"54","1677862095.998126000","192.168.100.23:12072","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:15.998126000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862095.998126000 seconds
+	Time delta from previous captured frame: 0.000148000 seconds
+	Time delta from previous displayed frame: 0.000148000 seconds
+	Time since reference or first frame: 18.063875000 seconds
+	Frame Number: 60
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"55","1677862096.002396000","52.21.119.163:443","192.168.100.23:12072","TCP","1466","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:16.002396000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862096.002396000 seconds
+	Time delta from previous captured frame: 0.004270000 seconds
+	Time delta from previous displayed frame: 0.004270000 seconds
+	Time since reference or first frame: 18.068145000 seconds
+	Frame Number: 61
+	Frame Length: 1466 bytes (11728 bits)
+	Capture Length: 1466 bytes (11728 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls:tls
+"
+"56","1677862096.002396000","52.21.119.163:443","192.168.100.23:12072","TCP","535","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:16.002396000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862096.002396000 seconds
+	Time delta from previous captured frame: 0.000000000 seconds
+	Time delta from previous displayed frame: 0.000000000 seconds
+	Time since reference or first frame: 18.068145000 seconds
+	Frame Number: 62
+	Frame Length: 535 bytes (4280 bits)
+	Capture Length: 535 bytes (4280 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls:tls
+"
+"57","1677862096.002588000","192.168.100.23:12072","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:16.002588000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862096.002588000 seconds
+	Time delta from previous captured frame: 0.000192000 seconds
+	Time delta from previous displayed frame: 0.000192000 seconds
+	Time since reference or first frame: 18.068337000 seconds
+	Frame Number: 63
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"58","1677862096.013204000","192.168.100.23:12072","52.21.119.163:443","TCP","717","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:16.013204000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862096.013204000 seconds
+	Time delta from previous captured frame: 0.010616000 seconds
+	Time delta from previous displayed frame: 0.010616000 seconds
+	Time since reference or first frame: 18.078953000 seconds
+	Frame Number: 64
+	Frame Length: 717 bytes (5736 bits)
+	Capture Length: 717 bytes (5736 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"59","1677862096.268198000","52.21.119.163:443","192.168.100.23:12072","TCP","335","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:16.268198000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862096.268198000 seconds
+	Time delta from previous captured frame: 0.254994000 seconds
+	Time delta from previous displayed frame: 0.254994000 seconds
+	Time since reference or first frame: 18.333947000 seconds
+	Frame Number: 65
+	Frame Length: 335 bytes (2680 bits)
+	Capture Length: 335 bytes (2680 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"60","1677862096.268433000","52.21.119.163:443","192.168.100.23:12072","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:16.268433000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862096.268433000 seconds
+	Time delta from previous captured frame: 0.000235000 seconds
+	Time delta from previous displayed frame: 0.000235000 seconds
+	Time since reference or first frame: 18.334182000 seconds
+	Frame Number: 66
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"61","1677862096.268505000","192.168.100.23:12072","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:16.268505000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862096.268505000 seconds
+	Time delta from previous captured frame: 0.000072000 seconds
+	Time delta from previous displayed frame: 0.000072000 seconds
+	Time since reference or first frame: 18.334254000 seconds
+	Frame Number: 67
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"62","1677862096.278566000","192.168.100.23:12072","52.21.119.163:443","TCP","78","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:16.278566000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862096.278566000 seconds
+	Time delta from previous captured frame: 0.010061000 seconds
+	Time delta from previous displayed frame: 0.010061000 seconds
+	Time since reference or first frame: 18.344315000 seconds
+	Frame Number: 68
+	Frame Length: 78 bytes (624 bits)
+	Capture Length: 78 bytes (624 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp:tls
+"
+"63","1677862096.572159000","52.21.119.163:443","192.168.100.23:12072","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:16.572159000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862096.572159000 seconds
+	Time delta from previous captured frame: 0.293593000 seconds
+	Time delta from previous displayed frame: 0.293593000 seconds
+	Time since reference or first frame: 18.637908000 seconds
+	Frame Number: 69
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
+"64","1677862096.757735000","192.168.100.23:12072","52.21.119.163:443","TCP","54","Layer FRAME:
+	Interface id: 0 (\Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4})
+	Interface name: \Device\NPF_{395732A2-708D-4F09-8EE9-A68253CB1EC4}
+	Interface description: Wi-Fi
+	Encapsulation type: Ethernet (1)
+	Arrival Time: Mar  3, 2023 23:48:16.757735000 SE Asia Standard Time
+	Time shift for this packet: 0.000000000 seconds
+	Epoch Time: 1677862096.757735000 seconds
+	Time delta from previous captured frame: 0.185576000 seconds
+	Time delta from previous displayed frame: 0.185576000 seconds
+	Time since reference or first frame: 18.823484000 seconds
+	Frame Number: 70
+	Frame Length: 54 bytes (432 bits)
+	Capture Length: 54 bytes (432 bits)
+	Frame is marked: False
+	Frame is ignored: False
+	Protocols in frame: eth:ethertype:ip:tcp
+"
